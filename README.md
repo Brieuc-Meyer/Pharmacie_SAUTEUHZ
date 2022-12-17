@@ -48,11 +48,11 @@ Et rendez vous sur l'url suivante
 ``` 
 https://localhost:3000/
 ```
-- Les identifiants suivants vous donneront accès à l'application
+Les identifiants suivants vous donneront accès à l'application
 - Adress Mail : pharmacien@mail.com
 - Mot de passe : root
 
-- N'hésitez pas à me rapporter différents dysfonctionnements, bugs, et points de frictions que vous rencontreriez via  <a href="mailto:brieucme35@gmail.com"> brieucme35@gmail.com</a>
+N'hésitez pas à me rapporter différents dysfonctionnements, bugs, et points de frictions que vous rencontreriez via  <a href="mailto:brieucme35@gmail.com"> brieucme35@gmail.com</a>
 ## Auteur
 - [Brieuc-Meyer](https://github.com/Brieuc-Meyer)
 - NB la version dans se reposistory est la 1.0.0, ce projet sera soutenu dans le temps ici : [Brieuc-Meyer](https://github.com/Brieuc-Meyer)
